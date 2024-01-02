@@ -13,7 +13,8 @@ Contents:
 	- eda numbers: For example generate a dataframe with the correlations
 	- eda graph - seaborn - matplotlib: generate a plot with seaborn-plotly using as input the eda numbers (when it is possible)
 	- eda graph - plotly: generate a plot with plotly using as input the eda numbers (when it is possible)
-	- synthesize: join the previous code in a function
+	- synthesize: join the previous code in a function.
+- --> IMPORTANT 3: to see the final codes in the notebooks, search all the function defined def function1(x, y, z)
 
 
 
