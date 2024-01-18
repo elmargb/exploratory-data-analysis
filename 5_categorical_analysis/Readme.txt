@@ -1,4 +1,14 @@
-english
+"english"
+---> NOMENCLATURE OF NOTEBOOKS
+The analyzes are all carried out with discrete variable features (in the codes categorized according to percentiles) but
+The target can vary between being a continuous variable (original value) or being a discrete variable (transformed based on
+percentiles in the example codes). The nomenclature of notebooks refers to the type of variable used:
+- x_cat: features are categorical/discrete variables
+- y_cat: target is categorical/discrete variables
+- y_cont: target is continuous variable
+
+
+---> EXPLANATION
 The transformation consists of categorizing the features and targets into percentiles and performing applicable analyzes for data
 categorical.
 
@@ -18,7 +28,17 @@ The percentiles enabled in these codes to categorize the data are:
 
 
 ------------------------------------------------------------------------
-español
+"español"
+---> NOMENCLATURA DE LOS NOTEBOOKS
+Los análisis se realizan todos con features variables discretas (en los códigos categorizadas de acuerdo a percentiles) pero
+el target puede variar entre ser una variable continua (valor original) o ser una variable discretas (transformada en base a
+percentiles en los códigos de ejemplo). La nomenclatura de los notebooks hace referencia al tipo de variable que se utiliza:
+	- x_cat: features son variables categóricas/discretas
+	- y_cat: target es variables categóricas/discretas
+	- y_cont: target es variable continua
+
+
+---> EXPLICACIÓN
 La transformación consiste en categorizar las features y target en percentiles y realizar análisis aplicables para datos
 categóricos.
 
